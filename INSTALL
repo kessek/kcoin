@@ -1,9 +1,9 @@
-Building FooCoin
+Building ktkcoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building ktkcoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of ktkcoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building ktkcoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of ktkcoin.

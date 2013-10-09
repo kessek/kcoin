@@ -1,3 +1,3 @@
-FooCoin (FOO)
+ktkcoin (KTK)
 
 Blah, blah, blah.
